@@ -3,3 +3,4 @@ console.log("pizda");
 console.log("pizda");
 console.log("pizda");
 
+console.log("Не пизда");
